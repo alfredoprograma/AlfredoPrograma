@@ -6,9 +6,9 @@ Passionate about building **scalable applications** and leveraging **cloud techn
 ## 📍 A bit about my experience
 
 - Led frontend initiatives for financial tools used by banks and insurance companies in Chile.
-- Managed multiple application envronments using infrasctructure as code and configuration tools.
+- Managed multiple application environments using infrasctructure as code and configuration tools.
 - Deployed and managed Kubernetes clusters with autoscaling for heavy workload applications.
-- Built CI/CD environments pipelines to perform automatic deployments for microservices.
+- Built CI/CD environments pipelines to perform automatic deployments for lambda functions.
 - Developed reusable components to improve development speed and maintainability.
 - Mentored more than 30 students in software development and programming logic.
 
