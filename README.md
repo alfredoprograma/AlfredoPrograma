@@ -11,6 +11,7 @@
 - Managed multiple application environments with infrastructure as code and configuration tools (Terraform, Ansible).
 - Automated Lambda deployments through CI/CD pipelines.
 - Diagnosed a site-to-site VPN failure against an on-prem Palo Alto firewall (tunnels up, no BGP routes advertised) down to a peering misconfiguration.
+- Provisioned Azure AI Foundry model deployments and raised their assigned quota to match application serving demand.
 - Backend background before going full DevOps, building NestJS and Go services with Cognito auth, RBAC and async processing over Amazon SQS.
 - Mentored 30+ students in software development and programming logic.
 
@@ -26,13 +27,15 @@
 
 ## 📜 Certifications
 
+- Certified Kubernetes Administrator, CKA (2026-2028)
 - AWS Certified Solutions Architect - Associate (2025-2028)
 - AWS Certified Cloud Practitioner (2025-2028)
-- Kubernetes and Cloud Native Associate, KCNA (2025-2027)
+- Kubernetes and Cloud Native Associate, KCNA (2025-2028)
 - EF SET English Certificate, C2 Proficient
 
 ## 📫 Let's Connect!
 
 - 🌐 [alfredoprograma.dev](https://alfredoprograma.dev)
+- ✍️ [Blog](https://alfredoprograma.dev/blog/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alfredoprograma/)
 - 📧 alfredoprograma.dev@gmail.com
