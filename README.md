@@ -31,7 +31,6 @@
 - AWS Certified Solutions Architect - Associate (2025-2028)
 - AWS Certified Cloud Practitioner (2025-2028)
 - Kubernetes and Cloud Native Associate, KCNA (2025-2028)
-- EF SET English Certificate, C2 Proficient
 
 ## 📫 Let's Connect!
 
