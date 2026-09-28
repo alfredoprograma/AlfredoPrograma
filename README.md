@@ -6,6 +6,8 @@
 
 - Designed and shipped a greenfield three-tier product on AWS (ECS Fargate behind an ALB, RDS Postgres, ElastiCache Redis), provisioned with Terraform across dev, staging and production. Services run in private subnets behind NAT egress, datastores in isolated subnets, and internal AWS traffic stays on VPC endpoints.
 - Built secure CI/CD with GitHub Actions on OIDC role assumption, removing static AWS credentials entirely, with a merge live on ECS in ~8 minutes and production gated behind tagged releases.
+- Provisioned Azure AI Foundry deployments for DeepSeek and GPT family models, raising their quota to match application serving demand.
+- Hardened Debian and Ubuntu production servers: locked-down SSH, fail2ban against brute force, an nginx reverse proxy, and TLS through Let's Encrypt.
 - Diagnosed a site-to-site VPN failure against an on-prem Palo Alto firewall (tunnels up, no BGP routes advertised) down to a peering misconfiguration.
 - Backend background before going full DevOps, building NestJS and Go services with Cognito auth, RBAC and async processing over Amazon SQS.
 
