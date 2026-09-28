@@ -4,16 +4,11 @@
 
 ## 📍 A bit about my experience
 
-- Designed and shipped a greenfield three-tier product on AWS (ECS Fargate behind an ALB, RDS Postgres, ElastiCache Redis), provisioned with Terraform across dev, staging and production.
+- Designed and shipped a greenfield three-tier product on AWS (ECS Fargate behind an ALB, RDS Postgres, ElastiCache Redis), provisioned with Terraform across dev, staging and production. Services run in private subnets behind NAT egress, datastores in isolated subnets, and internal AWS traffic stays on VPC endpoints.
 - Built secure CI/CD with GitHub Actions on OIDC role assumption, removing static AWS credentials entirely, with a merge live on ECS in ~8 minutes and production gated behind tagged releases.
 - Deployed and managed Kubernetes clusters with autoscaling for heavy-workload applications.
-- Hardened environment networking with services in private subnets behind NAT egress, datastores in isolated subnets, and internal AWS traffic over VPC endpoints.
-- Managed multiple application environments with infrastructure as code and configuration tools (Terraform, Ansible).
-- Automated Lambda deployments through CI/CD pipelines.
 - Diagnosed a site-to-site VPN failure against an on-prem Palo Alto firewall (tunnels up, no BGP routes advertised) down to a peering misconfiguration.
-- Provisioned Azure AI Foundry model deployments and raised their assigned quota to match application serving demand.
 - Backend background before going full DevOps, building NestJS and Go services with Cognito auth, RBAC and async processing over Amazon SQS.
-- Mentored 30+ students in software development and programming logic.
 
 ## 🛠️ Technical Skills
 
